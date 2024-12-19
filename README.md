@@ -1,13 +1,11 @@
 # Python Port Scanner
 
-A simple Python port scanner for cybersecurity testing.
-
 This is a simple Python-based Port Scanner. It scans a range of ports on a target (IP address or hostname) to check which ports are open.
 
 ## How to Run
 1. Clone this repository.
 2. Install Python 3.x.
-3. Run the script.
+3. Run the script:
 4. Enter the target (e.g., IP or hostname) and port range when prompted.
 
 ## Features
